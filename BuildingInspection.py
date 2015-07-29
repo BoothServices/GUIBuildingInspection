@@ -1,3 +1,7 @@
+#Created by Colton Booth in July 2015. Source code is released under the LGPL (for now).
+#Please see the LICENCE file for full text of the LGPL
+
+
 import os
 import wx
 import openpyxl
